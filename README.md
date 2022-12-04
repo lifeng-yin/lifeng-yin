@@ -35,7 +35,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 <br>
 
-## 📊 &nbsp;My Coding Stats
+## 📊 &nbsp;Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```text
