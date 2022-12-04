@@ -37,6 +37,17 @@
 
 ## 📊 &nbsp;My Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 1 hr
+
+Markdown     25 mins         ██████████░░░░░░░░░░░░░░░   40.61 %
+HTML         12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+YAML         12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+CSS          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+```
+
 <!--END_SECTION:waka-->
 ## 📞 &nbsp;Links and Contacts
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=fff&style=for-the-badge)](mailto:lifeng-yin@proton.me)&nbsp;
