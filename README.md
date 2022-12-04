@@ -1,5 +1,5 @@
-<h2 style="text-align: center; font-weight: 500"> Hi there, I'm Li Feng 👋 </h2>
-<p style="text-align: center">📚 Student &nbsp; &nbsp; 💻 Full-Stack Developer &nbsp; &nbsp;🎨 Web Designer</p>
+## Hi there, I'm Li Feng 👋 
+📚 Student &nbsp; &nbsp; 💻 Full-Stack Developer &nbsp; &nbsp;🎨 Web Designer
 
 
 ## 🔭 &nbsp;Projects in Progress
