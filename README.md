@@ -52,7 +52,8 @@ CSS          5 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ## 📞 &nbsp;Links and Contacts
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=fff&style=for-the-badge)](mailto:lifeng-yin@proton.me)&nbsp;
-[![](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github)](https://github.com/lifeng-yin)&nbsp;
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lifeng-yin/)&nbsp;
-[![Replit Badge](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=for-the-badge)](https://replit.com/@LiFengYin)&nbsp;
+[![Github Badge](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github)](https://github.com/lifeng-yin)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lifeng-yin/)&nbsp;
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=for-the-badge)](https://stackoverflow.com/users/20678031/li-feng-yin)&nbsp;
+[![Replit Badge](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=for-the-badge)](https://replit.com/@LiFengYin)&nbsp;
+[![StackBlitz Badge](https://img.shields.io/badge/StackBlitz-1269D3?logo=stackblitz&logoColor=fff&style=for-the-badge)](https://stackblitz.com/@lifeng-yin)&nbsp;
