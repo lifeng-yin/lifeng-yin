@@ -4,7 +4,7 @@
 
 ## 🔭 &nbsp;Projects in Progress
 - <a href="https://github.com/lifeng-yin/simpleread">Simpleread</a> - A simple, minimalistic, book-reviewing website
-- <a href="https://github/com/lifeng-yin/personal-website">Personal Website and Portfolio</a> - under construction 🚧
+- <a href="https://github.com/lifeng-yin/personal-website">Personal Website and Portfolio</a> - under construction 🚧
 
 
 
