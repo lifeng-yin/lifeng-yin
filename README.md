@@ -39,14 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 17 mins
-
-SCSS         45 mins         ████████▒░░░░░░░░░░░░░░░░   33.46 %
-HTML         41 mins         ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-JavaScript   33 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-YAML         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
