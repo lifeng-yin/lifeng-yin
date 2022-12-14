@@ -4,6 +4,7 @@
 
 ## 🔭 &nbsp;Projects in Progress
 - <a href="https://github.com/lifeng-yin/simpleread">Simpleread</a> - A simple, minimalistic, book-reviewing website
+- <a href="https://github.com/lifeng-yin/nim">Nim</a> - An online and minimalistic version of the mathematical strategy game Nim.
 - <a href="https://github.com/lifeng-yin/personal-website">Personal Website and Portfolio</a> - under construction 🚧
 
 
