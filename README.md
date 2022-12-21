@@ -40,9 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
-
-SCSS   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
