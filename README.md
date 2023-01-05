@@ -40,7 +40,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 2 hrs 15 mins
+
+SCSS         1 hr 25 mins    ████████████████░░░░░░░░░   63.41 %
+JavaScript   34 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+Git          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
