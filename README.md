@@ -40,12 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 20 mins
-
-JavaScript   7 mins          █████████▒░░░░░░░░░░░░░░░   37.61 %
-HTML         6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-JSON         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-Vue.js       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
