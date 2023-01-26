@@ -40,12 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
-
-Vue.js       0 secs          ██████████░░░░░░░░░░░░░░░   39.43 %
-HTML         0 secs          █████████░░░░░░░░░░░░░░░░   36.47 %
-JavaScript   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
