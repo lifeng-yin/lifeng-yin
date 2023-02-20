@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 hrs 32 mins
+Total Time: 7 hrs 15 mins
 
-Python       6 hrs 30 mins   █████████████████████▓░░░   86.34 %
-TypeScript   1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python       6 hrs 30 mins   ██████████████████████▒░░   89.70 %
+TypeScript   43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
