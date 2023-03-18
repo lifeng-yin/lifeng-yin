@@ -2,11 +2,9 @@
 📚 Student &nbsp; &nbsp; 💻 Full-Stack Developer &nbsp; &nbsp;🎨 Web Designer
 
 
-## 🔭 &nbsp;Projects in Progress
-- <a href="https://github.com/lifeng-yin/simpleread">Simpleread</a> - A simple, minimalistic, book-reviewing website
-- <a href="https://github.com/lifeng-yin/nim">Nim</a> - An online and minimalistic version of the mathematical strategy game Nim.
-- <a href="https://github.com/lifeng-yin/personal-website">Personal Website and Portfolio</a> - under construction 🚧
-
+## 🔭 &nbsp;Past and current projects
+- <a href="https://github.com/lifeng-yin/cultivate">Cultivate</a> - Winner of Best Accessibility Hack at HarvestHacks
+- <a href="https://github.com/jeffrey-zang/charitychimp">CharityChimp</a> - Winner of Best Use of Deso at Give Back Hacks 3
 
 
 ## ⚙️ &nbsp;Languages, frameworks, and tools
