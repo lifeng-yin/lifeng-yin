@@ -5,6 +5,8 @@
 ## 🔭 &nbsp;Past and current projects
 - <a href="https://github.com/lifeng-yin/cultivate">Cultivate</a> - Winner of Best Accessibility Hack at HarvestHacks
 - <a href="https://github.com/jeffrey-zang/charitychimp">CharityChimp</a> - Winner of Best Use of Deso at Give Back Hacks 3
+- <a href="https://github.com/lifeng-yin/simpleread">Simpleread</a> - Book review website built with React
+- <a href="https://github.com/lifeng-yin/mathworkit">Mathworkit</a> - [In progress] Math note editing and sharing platform
 
 
 ## ⚙️ &nbsp;Languages, frameworks, and tools
