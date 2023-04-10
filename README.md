@@ -41,11 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 39 mins
+Total Time: 0 secs
 
-HTML    39 mins         █████████████████████████   99.85 %
-SCSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+HTML   0 secs          █████████████████████▓░░░   86.03 %
+SCSS   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
 ```
 
 <!--END_SECTION:waka-->
