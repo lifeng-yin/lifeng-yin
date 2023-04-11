@@ -43,8 +43,7 @@
 ```text
 Total Time: 0 secs
 
-HTML   0 secs          █████████████████████▓░░░   86.03 %
-SCSS   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
