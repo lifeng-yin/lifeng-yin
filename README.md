@@ -41,9 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 18 mins
 
-JSON   0 secs          █████████████████████████   100.00 %
+HTML   12 mins         ██████████████████░░░░░░░   71.50 %
+SCSS   5 mins          ███████░░░░░░░░░░░░░░░░░░   28.40 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
