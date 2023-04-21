@@ -41,11 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 mins
+Total Time: 5 mins
 
-HTML         13 mins         ████████████▓░░░░░░░░░░░░   50.65 %
-SCSS         7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.70 %
-Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Other        3 mins          █████████▒░░░░░░░░░░░░░░░   37.79 %
 ```
 
 <!--END_SECTION:waka-->
