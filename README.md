@@ -39,7 +39,7 @@
 
 ## 📊 &nbsp;Weekly Development Breakdown
 
->>> ⚠️ Unfortunately, as my laptop just recently broke, these stats are not up-to-date.
+> ⚠️ Unfortunately, as my laptop just recently broke, these stats are not up-to-date.
 <!--START_SECTION:waka-->
 
 ```text
