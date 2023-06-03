@@ -50,14 +50,14 @@
 > ⚠️ Unfortunately, as my laptop just recently broke, these stats are not up-to-date.
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 1 hr 21 mins
+```txt
+Total Time: 1 hr 7 mins
 
-TypeScript   1 hr 3 mins     ███████████████████░░░░░░   76.33 %
-JavaScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Git Config   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-SCSS         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+TypeScript   54 mins         ███████████████████▓░░░░░   78.42 %
+JavaScript   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Git Config   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
