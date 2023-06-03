@@ -1,12 +1,18 @@
 ## Hi there, I'm Li Feng 👋 
-📚 Student &nbsp; &nbsp; 💻 Full-Stack Developer &nbsp; &nbsp;🎨 Web Designer
+📚 Student &nbsp; &nbsp; 💻 Full-Stack Developer &nbsp; &nbsp;🛠️ Hackathon Organizer
 
 
-## 🔭 &nbsp;Past and current projects
+
+## 🔭 Current projects
+- <a href="https://github.com/RythmHacks">RythmHacks Dashboard</a> - Hacker dashboard for RythmHacks, a high-school hackathon
+- <a href="https://github.com/lifeng-yin/trivmaster">Trivmaster</a> - Realtime, full-featured, trivia web app
+
+## 💼 &nbsp;Past projects
 - <a href="https://github.com/lifeng-yin/cultivate">Cultivate</a> - Winner of Best Accessibility Hack at HarvestHacks
 - <a href="https://github.com/jeffrey-zang/charitychimp">CharityChimp</a> - Winner of Best Use of Deso at Give Back Hacks 3
+- <a href="https://github.com/Yourself1011/memento">Memento</a> - AI-Generated flashcards with image-to-text recognition, project for MetHacks
 - <a href="https://github.com/lifeng-yin/simpleread">Simpleread</a> - Book review website built with React
-- <a href="https://github.com/lifeng-yin/mathworkit">Mathworkit</a> - [In progress] Math note editing and sharing platform
+
 
 
 ## ⚙️ &nbsp;Languages, frameworks, and tools
@@ -29,11 +35,13 @@
 
 
 ### Other Tools
+![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff&style=flat-square)&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)&nbsp;
 ![PWA Badge](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=fff&style=flat-square)&nbsp;
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)&nbsp;
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)&nbsp;
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)&nbsp;
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 <br>
 
