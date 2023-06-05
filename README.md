@@ -51,13 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 mins
+Total Time: 0 secs
 
-Git Config   6 mins          ███████████▓░░░░░░░░░░░░░   46.72 %
-JavaScript   6 mins          ███████████▓░░░░░░░░░░░░░   46.25 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
