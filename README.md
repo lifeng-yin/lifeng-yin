@@ -49,10 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 24 mins
 
-JSON         4 mins          ████████████████████████░   95.58 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+TypeScript   20 mins         ████████████████████▓░░░░   82.68 %
+JSON         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
 ```
 
 <!--END_SECTION:waka-->
