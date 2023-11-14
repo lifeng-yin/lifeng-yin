@@ -51,9 +51,8 @@
 ```txt
 Total Time: 7 mins
 
-TypeScript   3 mins          ████████████▓░░░░░░░░░░░░   50.66 %
-JavaScript   3 mins          ██████████▓░░░░░░░░░░░░░░   42.08 %
-CSS          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+TypeScript   3 mins          █████████████▓░░░░░░░░░░░   55.32 %
+JavaScript   3 mins          ███████████▒░░░░░░░░░░░░░   44.68 %
 ```
 
 <!--END_SECTION:waka-->
