@@ -49,13 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 10 mins
+Total Time: 1 hr
 
-Text              53 mins         ███████████████████░░░░░░   75.56 %
-Processing        16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text              45 mins         ███████████████████░░░░░░   75.63 %
+Processing        14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
