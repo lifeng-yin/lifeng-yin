@@ -49,12 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 42 mins
+Total Time: 27 mins
 
-Text              25 mins         ███████████████░░░░░░░░░░   59.40 %
-Processing        11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-Python            5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Processing        11 mins         ██████████░░░░░░░░░░░░░░░   40.64 %
+Text              10 mins         █████████▒░░░░░░░░░░░░░░░   37.83 %
+Python            5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
