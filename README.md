@@ -49,9 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 mins
 
-Processing   0 secs          █████████████████████████   100.00 %
+Image (svg)   1 min           ███████████▓░░░░░░░░░░░░░   47.10 %
+Markdown      1 min           ██████████▓░░░░░░░░░░░░░░   42.74 %
+HTML          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+JavaScript    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
