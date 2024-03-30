@@ -49,12 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 mins
+Total Time: 42 mins
 
-Processing   26 mins         █████████████████░░░░░░░░   67.53 %
-TypeScript   10 mins         ███████░░░░░░░░░░░░░░░░░░   28.26 %
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Processing   31 mins         ██████████████████▓░░░░░░   74.49 %
+TypeScript   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
 ```
 
 <!--END_SECTION:waka-->
