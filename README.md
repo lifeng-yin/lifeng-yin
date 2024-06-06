@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 55 mins
+Total Time: 2 hrs 58 mins
 
-TypeScript    2 hrs 36 mins   ███████████░░░░░░░░░░░░░░   43.94 %
-Markdown      1 hr 37 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-Vue.js        57 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-JavaScript    38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-CSS           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript   2 hrs 36 mins   ██████████████████████░░░   87.36 %
+JavaScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
