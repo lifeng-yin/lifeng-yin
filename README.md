@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 28 mins
+Total Time: 6 hrs 48 mins
 
-Processing   4 hrs 35 mins   ███████████████▒░░░░░░░░░   61.39 %
-HTML         1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-Markdown     1 hr 15 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Processing   3 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.67 %
+HTML         1 hr 28 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+Markdown     1 hr 15 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
