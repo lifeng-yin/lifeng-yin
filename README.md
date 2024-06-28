@@ -51,7 +51,7 @@
 ```txt
 Total Time: 6 hrs 29 mins
 
-Processing    6 hrs 22 mins   ████████████████████████▓   98.27 %
+Processing    6 hrs 22 mins   ████████████████████████▓   98.26 %
 TypeScript    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 SCSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
