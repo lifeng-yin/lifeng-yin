@@ -49,12 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 20 mins
+Total Time: 0 secs
 
-TypeScript    2 hrs 11 mins   ███████████████████████▓░   94.00 %
-SCSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Image (svg)   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+SCSS   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
