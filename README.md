@@ -49,9 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 5 mins
 
-Image (svg)   3 mins          █████████████████████████   100.00 %
+Image (svg)   3 mins          ██████████████████░░░░░░░   72.61 %
+TypeScript    1 min           ███████░░░░░░░░░░░░░░░░░░   27.39 %
 ```
 
 <!--END_SECTION:waka-->
