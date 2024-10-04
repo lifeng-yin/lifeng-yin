@@ -49,13 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 1 min
 
-Astro        2 mins          █████████████▒░░░░░░░░░░░   53.85 %
-C#           1 min           █████████░░░░░░░░░░░░░░░░   36.41 %
-Markdown     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-MDX          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+C#           1 min           █████████████████████████   99.53 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
