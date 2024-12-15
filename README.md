@@ -51,8 +51,8 @@
 ```txt
 Total Time: 15 mins
 
-Other        57 mins         ███████████████████▓░░░░░   79.14 %
-TypeScript   15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Other        3 hrs 3 mins    ███████████████████████░░   92.43 %
+TypeScript   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
